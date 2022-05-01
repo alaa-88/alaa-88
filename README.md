@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @alaa-88
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning artficial intelligence
-- 💞️ I’m looking to collaborate on ..
-- 📫 How to reach me ...
+- 👋 Hi, I’m Alaa Ayman a student at Faculty of Artificial Intelligence, kafr El-sheikh University
+- 👀 I’m interested in programming and fields like Machine Learning and Data science
+- 📫 How to reach me  alaaelkady888@gmail.com
 
 <!---
 alaa-88/alaa-88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
