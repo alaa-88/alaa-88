@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alaa Ayman a student at Faculty of Artificial Intelligence, kafr El-sheikh University
-- 👀 I’m interested in programming and fields like Machine Learning and Data science
+- 👀 I’m interested in Machine Learning and Data science
 - 📫 How to reach me  alaaelkady888@gmail.com
 
 <!---
